@@ -12,7 +12,7 @@ A professional Streamlit application for music genre classification using advanc
 
 ## 🚀 Live Demo
 
-🌐 **[Try the Live Application]([http://localhost:8502](https://music-genre-classifier-by-hamza.streamlit.app/))**
+🌐 **[Try the Live Application](https://music-genre-classifier-by-hamza.streamlit.app/)**
 
 ## Features
 
