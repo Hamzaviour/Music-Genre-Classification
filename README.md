@@ -12,7 +12,7 @@ A professional Streamlit application for music genre classification using advanc
 
 ## 🚀 Live Demo
 
-🌐 **[Try the Live Application](http://localhost:8502)**
+🌐 **[Try the Live Application]([http://localhost:8502](https://music-genre-classifier-by-hamza.streamlit.app/))**
 
 ## Features
 
@@ -152,6 +152,7 @@ A professional Streamlit application for music genre classification using advanc
 
 ## 📊 Screenshots
 
+<img width="987" height="588" alt="image" src="https://github.com/user-attachments/assets/5be59cf6-0f96-4d29-9091-3f15c5c8c38d" />
 
 ## 🛠️ Technical Implementation
 
@@ -179,7 +180,6 @@ Dropout(0.5) → Dense(10)
 
 ## 🙏 Acknowledgments
 
-- **Elevvo Pathways** for project support and guidance
 - **GTZAN Dataset** creators for the comprehensive music collection
 - **Streamlit team** for the amazing web framework
 - **TensorFlow/Keras** for deep learning capabilities
